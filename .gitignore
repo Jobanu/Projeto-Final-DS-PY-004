@@ -1,2 +1,7 @@
 .vscode
 Cola comandos Python Git Docker.txt
+.DS_Store
+Thumbs.db
+.idea/
+*.suo
+*.ntvs*
