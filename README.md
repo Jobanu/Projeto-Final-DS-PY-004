@@ -9,9 +9,9 @@ Este projeto final foi desenvolvido como parte do critério de avaliação da Tu
 ---
 
 ## 👥 Integrantes do Grupo
-* **Joadson** - *Engenheiro de Dados e Controle de Versão (Git/NumPy)*
-* **José** - *Analista de Negócios e Visualização de Dados (Pandas/Seaborn)*
-* **João** - *Qualidade de Dados, Higienização e Documentação*
+* **Joadson Barbosa Nunes**
+* **José Roberto Fabbi Júnior** 
+* **João Felipe**
 
 ---
 
