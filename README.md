@@ -11,7 +11,18 @@ Este projeto final foi desenvolvido como parte do critério de avaliação da Tu
 ## 👥 Integrantes do Grupo
 * **Joadson Barbosa Nunes**
 * **José Roberto Fabbi Júnior** 
-* **João Felipe**
+* **João Felipe Gomes Vieira**
+
+---
+
+## ❓ Perguntas de Negócio / Objetivos da Análise
+1. QUAIS OS 3 TIPOS MAIS COMUNS DE OCORRÊNCIA POR ESTADO?
+2. QUAL O ÍNDICE DE OCORRÊNCIAS POR REGIÃO POR ANO?
+3. QUAIS FASES DAS OPERAÇÕES GERAM MAIS ACIDENTES?
+4. QUAL O TOTAL DE FATALIDADES POR OPERAÇÃO POR ANO?
+5. QUAL O TIPO MAIS COMUM DE OCORRÊNCIA POR CATEGORIA DA AERONAVE?
+6. QUAL A CATEGORIA DE AERONAVE COM MENOR ÍNDICE DE FATALIDADES (NORMALIZADO POR ASSENTOS)?
+7. CORRELAÇÃO ENTRE QUANTIDADE DE OCORRÊNCIAS E MENORES ÍNDICES DE IDH POR ESTADO AO LONGO DO TEMPO.
 
 ---
 
