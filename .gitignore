@@ -1,2 +1,30 @@
-.vscode
+# ==========================================
+# ARQUIVOS TEMPORÁRIOS DO PYTHON E JUPYTER
+# ==========================================
+# Ignora pastas de cache que o Python cria ao rodar o notebook
+__pycache__/
+*.py[cod]
+*$py.class
 Cola comandos Python Git Docker.txt
+
+# Ignora os checkpoints automáticos que o Jupyter cria em segundo plano
+# (Isso evita poluir o repositório a cada salvamento!)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Ignora ambientes virtuais caso alguém use localmente
+.venv/
+venv/
+env/
+
+# ==========================================
+# ARQUIVOS DO SISTEMA OPERACIONAL
+# ==========================================
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+.vscode
+.idea/
+*.suo
+*.ntvs*
